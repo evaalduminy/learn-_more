@@ -1,0 +1,6 @@
+E:\prpgrams c#\جيت و ست تلقائي\جيت و ست تلقائي\bin\Debug\جيت و ست تلقائي.exe.config
+E:\prpgrams c#\جيت و ست تلقائي\جيت و ست تلقائي\bin\Debug\جيت و ست تلقائي.exe
+E:\prpgrams c#\جيت و ست تلقائي\جيت و ست تلقائي\bin\Debug\جيت و ست تلقائي.pdb
+E:\prpgrams c#\جيت و ست تلقائي\جيت و ست تلقائي\obj\Debug\جيت و ست تلقائي.csprojResolveAssemblyReference.cache
+E:\prpgrams c#\جيت و ست تلقائي\جيت و ست تلقائي\obj\Debug\جيت و ست تلقائي.exe
+E:\prpgrams c#\جيت و ست تلقائي\جيت و ست تلقائي\obj\Debug\جيت و ست تلقائي.pdb
